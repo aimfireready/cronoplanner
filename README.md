@@ -1,6 +1,6 @@
 # Cronoplanner combines a To do list with Calendar
 
-[Test Drive Our Demo](https://tree-wizard.github.io/cronoplanner/cronoplanner.htm)
+[Test Drive Our Demo](https://aimfireready.github.io/cronoplanner/cronoplanner.htm)
 
 ## Getting Started
 
